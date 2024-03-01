@@ -40,19 +40,17 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg">
 
-<br />
-
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+
+<br />
 
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg"></code>  
 
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>  
-
-
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"><br /></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>    <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"><br /></code>
  </code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
+
+<br />  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
