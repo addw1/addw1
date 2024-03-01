@@ -19,7 +19,6 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently Studying at Duke University.
 - 🌱 I’m currently learning Distributed System.
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
 - 🤔 I’m looking for help with Kubernetes😭;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: qz150@duke.edu
@@ -29,15 +28,19 @@ You can use the website to generate badges: https://shields.io/
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
+
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
+  <a href="https://github.com/addw1/">
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=addw1&show_icons=true&hide_border=true" />
   </a>
+
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg">
+
+<br />
 
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 
@@ -45,8 +48,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>  
 
-<br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"><br /></code>
  </code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <br />
@@ -81,12 +84,9 @@ I created these images, feel free to use them.
 <!-- Its main projects -->
 
 <p align="center">
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
-  </a>
-  <a href="https://github.com/onimur/circleci-github-changelog-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
-  </a>
+  <a href="https://github.com/Github-conversational-robot/chat_github_robot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Github-conversational-robot&repo=chat_github_robot" />
 </p>
+
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->
-⭐️ From [onimur](https://github.com/onimur)
+⭐️ From [onimur](https://github.com/addw1)
