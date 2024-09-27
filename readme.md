@@ -19,7 +19,6 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently Studying at Duke University.
 - 🌱 I’m currently learning Distributed System.
-- 🤔 I’m looking for help with Kubernetes😭;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: qz150@duke.edu
 
@@ -73,8 +72,8 @@ I created these images, feel free to use them.
 <!-- Its main projects -->
 
 <p align="center">
-  <a href="https://github.com/Github-conversational-robot/chat_github_robot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Github-conversational-robot&repo=chat_github_robot" />
+  <a href="https://github.com/matrixorigin/matrixorigin.io.summer/tree/dev-first-branch">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=addw1&repo=matrixorigin.io.summer" />
 </p>
 
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->
