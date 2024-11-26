@@ -2,7 +2,7 @@
   
 # 🌟 Hello World, I'm Qingning Zeng
 ### Backend Developer & AI(LLM & Rec) Developer
-![](https://img.shields.io/badge/Focus-Artificial_General_Intelligence-BE2EDD)
+
 
 <p>
   <a href="mailto:52068838a@gmail.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
@@ -80,8 +80,8 @@
 ## 📊 Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=addw1&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addw1&layout=compact&langs_count=8&theme=flag-india"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=addw1&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addw1&layout=compact&langs_count=8&theme=ambient_gradient"/>
 </div>
 
 
