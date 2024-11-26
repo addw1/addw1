@@ -1,80 +1,96 @@
-<!-- Your title -->
-## Hi, I'm Qingning Zeng, a Software Developer 🚀 .
-
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/addw1)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qingning-zeng-6b70252b2/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:52068838a@@gmail.com)
-
-&nbsp;
-
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
-
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 👨🏽‍💻 I’m currently Studying at Duke University.
-- 🌱 I’m currently learning Distributed System.
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: qz150@duke.edu
-
-**Languages and Tools:** 
-
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
+<div align="center">
+  
+# 🌟 Hello World, I'm Qingning Zeng
+### Backend Developer & AI(LLM & Rec) Developer
+![](https://img.shields.io/badge/Focus-Artificial_General_Intelligence-BE2EDD)
 
 <p>
-  <a href="https://github.com/addw1/">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=addw1&show_icons=true&hide_border=true" />
-  </a>
-
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"><code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg"></code>  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>    <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"><br /></code>
- </code>
-
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>  <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-
-
-## Support me
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
-
-<p align="center">
-  <a href="https://www.patreon.com/onimur" target="_blank">
-    <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
-  </a>
-  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YUTBBKXR2XCPJ" target="_blank">
-      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
-  </a>
-  <a href="https://www.buymeacoffee.com/onimur" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-  </a>
+  <a href="mailto:52068838a@gmail.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="https://github.com/addw1"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/qingning-zeng-6b70252b2"><img src="https://img.shields.io/badge/Linkedin-ffffff?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <br/>
 </p>
+
+[![GitHub followers](https://img.shields.io/github/followers/zjrwtx?style=social)](https://github.com/addw1)
+![Profile Views](https://komarev.com/ghpvc/?username=addw1&color=blueviolet)
+
+</div>
+
+## 🎯 About Me 
+
+
+- 🔭 I've recently been learning to build recommendation frameworks.
+- 🚀 I recently completed the development of the recommended copilot from 0 to 1.
+- 🌱 I am enrolled in the ece programme at duke university.
+- 🎯 I'm looking for a job as a software engineer.
+
+## 💻 Tech Stack
+
+### 🤖 AI 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🎨 Web Framewrok
+![Static Badge](https://img.shields.io/badge/Springboot-Green?style=for-the-badge&logo=spring&logoColor=grey)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+### 🛠️ Middleware
+![Static Badge](https://img.shields.io/badge/Mysql-blue?style=for-the-badge&logo=Mysql&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Kafka-orange?style=for-the-badge&logo=Apache&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Flink-purple?style=for-the-badge&logo=apacheflink&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Spark-%20pink?style=for-the-badge&logo=apachespark&logoColor=white)
+
+
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/addw1/matrixorigin.io.summer">
+        <img src="https://img.shields.io/badge/Bot-blue?style=for-the-badge&logo=bot&logoColor=white"/>
+        <br />Using llm to help you get started with github repositories
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/addw1/risc_game_backend">
+        <img src="https://img.shields.io/badge/Game-red?style=for-the-badge&logo=game&logoColor=white"/>
+        <br />Multiplayer online strategy game Risk Game
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/addw1/Car-Monitor">
+        <img src="https://img.shields.io/badge/Car-green?style=for-the-badge&logoColor=white"/>
+        <br />Driverless vehicle monitoring system
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/addw1/GenerativeModel">
+        <img src="https://img.shields.io/badge/GAN-purple?style=for-the-badge&logoColor=white"/>
+        <br />Includes GAN, RBM, VAE, etc.
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 📊 Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=addw1&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addw1&layout=compact&langs_count=8&theme=flag-india"/>
+</div>
+
+
+## 📈 Contribution Timeline
+![](https://github-readme-activity-graph.vercel.app/graph?username=addw1&theme=vue)
 
 ---
 
-<!-- Its main projects -->
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/matrixorigin/matrixorigin.io.summer/tree/dev-first-branch">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=addw1&repo=matrixorigin.io.summer" />
-</p>
 
-<!-- This readme was created by Murillo Comino - https://github.com/onimur -->
-⭐️ From [onimur](https://github.com/addw1)
+</div>
