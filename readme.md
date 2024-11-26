@@ -85,8 +85,7 @@
 </div>
 
 
-## 📈 Contribution Timeline
-![](https://github-readme-activity-graph.vercel.app/graph?username=addw1&theme=vue)
+
 
 ---
 
