@@ -69,9 +69,9 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/addw1/GenerativeModel">
-        <img src="https://img.shields.io/badge/GAN-purple?style=for-the-badge&logoColor=white"/>
-        <br />Includes GAN, RBM, VAE, etc.
+      <a href="https://github.com/addw1/Progressive-Growing-Cycle-GAN">
+        <img src="https://img.shields.io/badge/PGCGAN-purple?style=for-the-badge&logoColor=white"/>
+        <br />Proposed progressive training method for the cycle gan .
       </a>
     </td>
   </tr>
