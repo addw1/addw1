@@ -1,7 +1,7 @@
 <div align="center">
   
-# 🌟 Hello World, I'm Qingning Zeng
-### Backend Developer & AI(LLM & Rec) Developer
+# 🌟 Hello World, I'm Qingning Zeng  
+### Distributed Systems & AI Infrastructure Engineer
 
 
 <p>
@@ -32,10 +32,14 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🎨 Web Framewrok
-![Static Badge](https://img.shields.io/badge/Springboot-Green?style=for-the-badge&logo=spring&logoColor=grey)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### ⚙️ ML Systems & Infra  
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![MPI](https://img.shields.io/badge/MPI-000000?style=for-the-badge&logo=openmpi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Faiss](https://img.shields.io/badge/Faiss-0081A7?style=for-the-badge&logo=meta&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 
 ### 🛠️ Middleware
@@ -44,6 +48,12 @@
 ![Static Badge](https://img.shields.io/badge/Kafka-orange?style=for-the-badge&logo=Apache&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Flink-purple?style=for-the-badge&logo=apacheflink&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Spark-%20pink?style=for-the-badge&logo=apachespark&logoColor=white)
+
+### 🎨 Web Framewrok
+![Static Badge](https://img.shields.io/badge/Springboot-Green?style=for-the-badge&logo=spring&logoColor=grey)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 
 ## 🚀 Projects
