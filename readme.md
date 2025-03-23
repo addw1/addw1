@@ -19,7 +19,7 @@
 ## 🎯 About Me 
 
 
-- 🔭 I've recently been learning to build recommendation frameworks.
+- 🔭 I've recently been learning MLsys.
 - 🚀 I recently completed the development of the recommended copilot from 0 to 1.
 - 🌱 I am enrolled in the ece programme at duke university.
 - 🎯 I'm looking for a job as a software engineer.
